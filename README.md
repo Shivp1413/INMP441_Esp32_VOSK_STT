@@ -54,6 +54,8 @@ Upload the Arduino audio-streaming firmware to your ESP32-S3 and connect the INM
 
 The ESP32 captures microphone audio and streams it over UDP on port `3333`.
 
+Use the firmware.txt in Arduino IDE and flash your Esp32 module.
+
 ### 2. Install Python Dependencies
 
 Install the required Python packages:
@@ -67,7 +69,7 @@ pip install vosk flask flask-sock psutil
 Save the Python server code as `server.py` and run:
 
 ```bash
-python server.py
+python main.py
 ```
 
 The Vosk English speech recognition model is downloaded automatically on the first run.
