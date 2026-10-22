@@ -9,6 +9,21 @@ The main goal of this project is to convert live microphone audio into text and 
   <img src="https://github.com/Shivp1413/INMP441_Esp32_VOSK_STT/blob/main/assets/Capture2.PNG" width="820" />
 </p>
 
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="660" height="1280" alt="esp32s3" src="https://github.com/user-attachments/assets/2d37504d-cc0c-4cc1-b8d7-22a594ad3d33" />
+<b>ESP32-S3 Development Board</b>
+</td>
+
+<td align="center" width="50%">
+<img width="992" height="1280" alt="mic" src="https://github.com/user-attachments/assets/d35464f4-9198-4abe-9450-8345e3f8217f" />
+<b>INMP441 I2S MEMS Microphone</b>
+</td>
+</tr>
+</table>
+
 ## ✨ Features
 
 - 🎙️ Real-time English Speech-to-Text (STT)
