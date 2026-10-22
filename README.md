@@ -4,6 +4,11 @@ Real-time English **Speech-to-Text (STT)** using an ESP32-S3, INMP441 I2S microp
 
 The main goal of this project is to convert live microphone audio into text and display the transcription in a real-time web dashboard.
 
+<p align="center">
+  <img src="https://github.com/Shivp1413/INMP441_Esp32_VOSK_STT/blob/main/assets/Capture.PNG" width="820" />
+  <img src="https://github.com/Shivp1413/INMP441_Esp32_VOSK_STT/blob/main/assets/Capture2.PNG" width="820" />
+</p>
+
 ## ✨ Features
 
 - 🎙️ Real-time English Speech-to-Text (STT)
